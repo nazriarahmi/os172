@@ -1,0 +1,8 @@
+w05-171003-10-LR-About: Memory, from website
+w05-171003-16-LR-About: Virtual Memory level 1, from lecture
+w05-171005-16-LR-About: Virtual memory level 2, from lecture
+w05-171006-10-PS-About: Scele Task Week05
+w05-171010-16-LR-About: Virtual memory level 2, from lecture
+w05-171012-20-LR-About: Practicing some task about virtual memory level 2, from note book
+w05-171013-21-DS-About: c languange to do scele task week 5
+w05-171014-11-PS-About: Traying to solve task week 5
