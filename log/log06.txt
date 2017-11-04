@@ -1,0 +1,8 @@
+w06-171030-14-LR-About: Thread, from presentation of lecture
+w06-171031-16-LR-About: Process and Thread, from lecture
+w06-171102-09-PS-About: Scele task week06
+w06-171103-09-PS-About: Scele task week06
+w06-171103-11-LR-About: Fork and waitpid, from website
+w06-171103-15-PS-About: Scele task week06
+w06-171104-09-LR-About: Solving problem gpg --gen-key
+w06-171104-09-PS-About: Scele task week06
