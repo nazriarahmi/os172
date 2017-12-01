@@ -1,0 +1,4 @@
+w09-171120-16-LR-About: Scheduling from lecture
+w09-171123-09-LR-About: Semaphore
+w09-171124-11-PS-About: Scele task week0910
+w09-171125-14-PS-About: Scele task week0910
