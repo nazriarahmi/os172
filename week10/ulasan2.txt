@@ -1,6 +1,6 @@
 Github Account : nazriarahmi
 Url Ulasan : http://osnazria.blogspot.co.id/2017/11/ulasan-2-introduction-to-linux_30.html
-Url Video (5:41): https://www.youtube.com/zA3vmx0GaO8
+Url Video (5:41): http://youtu.be/zA3vmx0GaO8
 Video Author : Techquickie
 Pemetaan konten : week00
 Revisi Pertama : 30 November 2017
